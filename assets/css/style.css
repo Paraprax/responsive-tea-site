@@ -10,3 +10,8 @@ body {
 nav {
   text-align: initial;
 }
+
+.tea-images img {
+  width: 300px;
+  height: 200px;
+}
