@@ -6,3 +6,7 @@ body {
   opacity: 0.9;
   text-align: center;
 }
+
+nav {
+  text-align: initial;
+}
