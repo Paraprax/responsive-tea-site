@@ -13,12 +13,16 @@ nav {
   text-align: initial;
   position: fixed;
   width: 100%;
-  z-index: 1;
 }
 
 nav a {
   text-align: justify;
   text-decoration: underline;
+}
+
+nav img {
+  height: 50px;
+  padding: 10px;
 }
 
 .mission-backgroun-img {
