@@ -9,10 +9,16 @@ body {
 
 nav {
   background-color: black;
+  border-bottom: 1px solid seashell;
   text-align: initial;
   position: fixed;
   width: 100%;
   z-index: 1;
+}
+
+nav a {
+  text-align: justify;
+  text-decoration: underline;
 }
 
 .mission-backgroun-img {
