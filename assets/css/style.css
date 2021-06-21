@@ -12,21 +12,27 @@ nav {
   border-bottom: 1px solid seashell;
   text-align: initial;
   position: fixed;
+  height: 69px;
   width: 100%;
 }
 
-nav a {
-  text-align: justify;
-  text-decoration: underline;
-}
-
 nav img {
+  display: inline-block;
   height: 50px;
   padding: 10px;
 }
 
-.mission-backgroun-img {
+nav a {
+  align-items: center;
+  text-decoration: underline;
+}
+
+.mission-background-img {
   height: 700px;
+}
+
+.mission-statement {
+  width: 1200px;
 }
 
 .tea-images img {
