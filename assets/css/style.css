@@ -86,16 +86,18 @@ nav a li {
   background-image: url("../images/img-locations-background.jpeg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
   height: 500px;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
+  max-width: 1200px;
+}
+
+#location-cells {
+  max-width: 300px;
 }
 
 .loc {
   background-color: black;
   display: inline-flex;
-  max-width: 300px;
   text-align: center;
 }
 
