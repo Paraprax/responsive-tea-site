@@ -8,14 +8,13 @@ body {
 }
 
 nav {
+  display: block;
   background-color: black;
   border-bottom: 1px solid seashell;
-  text-align: initial;
   position: fixed;
   top: 0px;
   height: 69px;
   width: 100%;
-  display: block;
 }
 
 nav img {
