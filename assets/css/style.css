@@ -67,6 +67,15 @@ nav a li {
   width: 1000px;
 }
 
+.tea-images {
+  display: inline-flex; /* responsive images on same line */
+  max-width: 1000px;
+  height: auto;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
 .tea-images img {
   width: 300px;
   height: 200px;
