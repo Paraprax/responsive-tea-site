@@ -33,11 +33,20 @@ nav a {
 
 .mission-statement {
   width: 1200px;
+  justify-content: center;
+}
+
+#tea-of-the-month {
+  width: 1000px;
 }
 
 .tea-images img {
   width: 300px;
   height: 200px;
+}
+
+figcaption {
+  margin-top: 10px;
 }
 
 #copyright {
