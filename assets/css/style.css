@@ -82,6 +82,10 @@ nav a li {
   padding: 10px 10px;
 }
 
+#locations {
+  background-image: url("../images/img-locations-background.jpeg");
+}
+
 #copyright {
   text-align: left;
 }
