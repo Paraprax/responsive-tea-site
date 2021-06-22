@@ -64,7 +64,6 @@ nav a li {
 }
 
 #tea-of-the-month {
-  width: 1000px;
 }
 
 .tea-img-container {
@@ -80,10 +79,6 @@ nav a li {
   width: 300px;
   height: 200px;
   padding: 10px 10px;
-}
-
-figcaption {
-  padding: 0px;
 }
 
 #copyright {
