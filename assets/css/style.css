@@ -57,6 +57,12 @@ nav a li {
   display: flex;
 }
 
+.our-mission {
+  background-color: black;
+  margin: auto; /* centers text in container horiz and vert */
+  width: 100%;
+}
+
 #tea-of-the-month {
   width: 1000px;
 }
