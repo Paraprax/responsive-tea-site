@@ -89,9 +89,10 @@ nav a li {
   background-size: cover;
   height: 500px;
   max-width: 1200px;
+  margin: 40px auto auto auto;
 }
 
-#location-cells {
+/* #location-cells {
   max-width: 300px;
 }
 
@@ -99,7 +100,7 @@ nav a li {
   background-color: black;
   display: inline-flex;
   text-align: center;
-}
+} */
 
 #copyright {
   text-align: left;
