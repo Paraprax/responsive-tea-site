@@ -47,13 +47,14 @@ nav a li {
   vertical-align: middle;
 }
 
-.mission-background-img {
+.mission-container {
+  background-image: url("../images/img-mission-background.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
   height: 700px;
-}
-
-.mission-statement {
-  width: 1200px;
-  justify-content: center;
+  max-width: 1200px;
+  margin: 40px auto;
+  display: flex;
 }
 
 #tea-of-the-month {
