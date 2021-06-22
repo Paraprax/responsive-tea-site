@@ -90,12 +90,13 @@ nav a li {
   height: 500px;
   max-width: 1200px;
   margin: 40px auto auto auto;
+  padding-top: 85px;
 }
 
 #location-cells {
   max-width: 1050px;
-  margin: 15px auto auto auto;
   display: flex;
+  margin: 15px auto auto auto;
   justify-content: space-between;
   margin-bottom: auto;
 }
