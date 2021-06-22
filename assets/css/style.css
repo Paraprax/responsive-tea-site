@@ -92,15 +92,21 @@ nav a li {
   margin: 40px auto auto auto;
 }
 
-/* #location-cells {
-  max-width: 300px;
+#location-cells {
+  max-width: 1050px;
+  margin: 15px auto auto auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: auto;
 }
 
 .loc {
   background-color: black;
-  display: inline-flex;
-  text-align: center;
-} */
+  height: 300px;
+  padding: 20px;
+  flex-basis: 30%;
+  box-sizing: border-box;
+}
 
 #copyright {
   text-align: left;
