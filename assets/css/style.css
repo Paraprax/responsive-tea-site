@@ -19,14 +19,33 @@ nav {
 }
 
 nav img {
-  display: inline-block;
   height: 50px;
+  float: left;
   padding: 10px;
 }
 
+#navlinks {
+  float: right;
+  height: 100%;
+  margin: auto;
+}
+
 nav a {
-  align-items: center;
+  height: 100%;
+  display: table;
+  float: left;
+  padding: 0px 20px;
+}
+
+nav a :visited {
+  color: rgb(0, 186, 186);
+}
+
+nav a li {
+  display: table-cell;
+  height: 100%;
   text-decoration: underline;
+  vertical-align: middle;
 }
 
 .mission-background-img {
