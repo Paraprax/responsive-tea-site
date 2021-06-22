@@ -63,7 +63,8 @@ nav a li {
   width: 100%;
 }
 
-#tea-of-the-month {
+#tea-of-the-month h4 {
+  margin-top: 0;
 }
 
 .tea-img-container {
