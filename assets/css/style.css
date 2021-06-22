@@ -68,6 +68,7 @@ nav a li {
   background-color: black;
   margin: auto; /* centers text in container horiz and vert */
   width: 100%;
+  opacity: 0.9;
 }
 
 #tea-of-the-month h4 {
@@ -114,6 +115,7 @@ nav a li {
   padding: 20px;
   flex-basis: 30%;
   box-sizing: border-box;
+  opacity: 0.8;
 }
 
 #copyright {
